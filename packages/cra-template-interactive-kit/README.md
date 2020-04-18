@@ -2,7 +2,7 @@
 
 <p align="left">
   <a aria-label="ZEIT logo" href="https://github.com/koshelevsergey/cra-templates/releases">
-    <img src="https://img.shields.io/badge/version-1.0.0-green?style=for-the-badge&logo=appveyor&labelColor=000000">
+    <img src="https://img.shields.io/badge/version-1.2.1-green?style=for-the-badge&logo=appveyor&labelColor=000000">
   </a>
   <a aria-label="ZEIT logo" href="https://nodejs.org">
     <img src="https://img.shields.io/badge/node->=%2010-green?style=for-the-badge&logo=Node.js&labelColor=000000">
