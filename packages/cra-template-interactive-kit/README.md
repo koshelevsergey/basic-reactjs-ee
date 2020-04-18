@@ -2,7 +2,7 @@
 
 <p align="left">
   <a aria-label="ZEIT logo" href="https://github.com/koshelevsergey/cra-templates/releases">
-    <img src="https://img.shields.io/badge/version-1.2.1-green?style=for-the-badge&logo=appveyor&labelColor=000000">
+    <img src="https://img.shields.io/badge/version-1.2.2-green?style=for-the-badge&logo=appveyor&labelColor=000000">
   </a>
   <a aria-label="ZEIT logo" href="https://nodejs.org">
     <img src="https://img.shields.io/badge/node->=%2010-green?style=for-the-badge&logo=Node.js&labelColor=000000">
@@ -71,7 +71,7 @@ yarn upgrade
 
 ## Support
 
-For problems, you can contact the `issue` section.
+For problems, you can contact the [issue](https://github.com/koshelevsergey/cra-templates/issues) section.
 For a quick reply, please indicate the `label`.
 
 ## Contributing
