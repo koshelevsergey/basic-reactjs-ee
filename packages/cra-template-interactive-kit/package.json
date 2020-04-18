@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-interactive-kit",
+  "version": "1.0.0",
+  "keywords": [
+    "react", "cra", "create-react-app",
+    "template", "typescript", "interactive", "kit"
+  ],
+  "description": "Interactive template with: TypeScript, ESLint and Prettier",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koshelevsergey/cra-templates.git",
+    "directory": "packages/cra-template-interactive-kit"
+  },
+  "author": "Sergey Koshelev",
+  "license": "MIT",
+  "main": "template.json",
+  "bugs": {
+    "url": "https://github.com/koshelevsergey/cra-templates/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "engines": {
+    "node": ">=10"
+  }
+}
