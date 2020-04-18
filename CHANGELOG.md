@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   * [#2](https://github.com/koshelevsergey/cra-templates/pull/2) Interactive template from [@koshelevsergey](https://github.com/koshelevsergey).
 
 * License file extension from from [@koshelevsergey](https://github.com/koshelevsergey).
+
 ### Changed
 * `cra-template-interactive-kit`
   * [#6](https://github.com/koshelevsergey/cra-templates/pull/6) Version editing from [@koshelevsergey](https://github.com/koshelevsergey).
