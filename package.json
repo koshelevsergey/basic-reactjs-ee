@@ -1,0 +1,25 @@
+{
+  "name": "cra-templates",
+  "version": "1.0.0-alpha",
+  "private": true,
+  "description": "Сustom react js application templates.",
+  "keywords": [
+    "react", "cra", "create-react-app",
+    "template", "cra-templates"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koshelevsergey/cra-templates.git"
+  },
+  "author": "Sergey Koshelev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koshelevsergey/cra-templates/issues"
+  },
+  "devDependencies": {
+    "lerna": "^3.20.2"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
