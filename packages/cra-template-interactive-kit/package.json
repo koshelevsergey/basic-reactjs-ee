@@ -1,6 +1,6 @@
 {
   "name": "cra-template-interactive-kit",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "keywords": [
     "react", "cra", "create-react-app", "template",
     "typescript", "eslint", "prettier", "interactive",

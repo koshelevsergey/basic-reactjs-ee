@@ -2,7 +2,7 @@
 
 <p align="left">
   <a aria-label="ZEIT logo" href="https://github.com/koshelevsergey/cra-templates/releases">
-    <img src="https://img.shields.io/badge/version-1.2.2-green?style=for-the-badge&logo=appveyor&labelColor=000000">
+    <img src="https://img.shields.io/badge/version-1.2.3-green?style=for-the-badge&logo=appveyor&labelColor=000000">
   </a>
   <a aria-label="ZEIT logo" href="https://nodejs.org">
     <img src="https://img.shields.io/badge/node->=%2010-green?style=for-the-badge&logo=Node.js&labelColor=000000">
@@ -52,6 +52,10 @@ For more information, please refer to:
 Unfortunately, it is not possible to make some dependencies in dev. Therefore, we recommend that after installing the application template, transfer some dependencies to dev by hand.
 
 List of dependencies that need to be transferred from **dependencies** to **devDependencies** in *package.json* file:
+- @testing-library/jest-dom
+- @testing-library/react
+- @testing-library/user-event
+- @types/jest
 - @typescript-eslint/eslint-plugin;
 - @typescript-eslint/parser;
 - eslint;
