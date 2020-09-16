@@ -19,7 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Link to documentation from [@koshelevsergey](https://github.com/koshelevsergey).
 
-## 1.2.1 - 2020-04-18
+### 1.2.1 - 2020-04-18
 
 ### Fixed
 
