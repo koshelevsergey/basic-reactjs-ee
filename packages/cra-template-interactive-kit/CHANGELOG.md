@@ -7,12 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 1.2.3 - 2020-09-16
 
-### Added
-
-- Update ignored files and folders from [@koshelevsergey](https://github.com/koshelevsergey).
-
 ### Changed
 
+- Update ignored files and folders from [@koshelevsergey](https://github.com/koshelevsergey).
 - Update template dependencies to latest version from [@koshelevsergey](https://github.com/koshelevsergey).
 - Recommendations for use from [@koshelevsergey](https://github.com/koshelevsergey).
 
